@@ -1,1 +1,2 @@
-# Belajar Machine Learning untuk Pemula Dicoding
+# Belajar Machine Learning untuk Pemula
+Dicoding Indonesia
